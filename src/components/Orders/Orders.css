@@ -1,0 +1,9 @@
+.cart-summary button{
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 6px 15px;
+    font-size: 15px;
+    border-radius: 3px;
+    cursor: pointer;
+}

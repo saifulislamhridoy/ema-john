@@ -1,11 +1,12 @@
 .form-container{
-    height: 600px;
+    padding-bottom: 20px;
     width: 500px;
-    margin: 0 auto;
+    margin: 20px auto;
     border: 1px solid #95A0A7;
     border-radius: 8px;
     display: flex;
     justify-content: center;
+    
 }
 .form-title{
     font-size: 35px;
